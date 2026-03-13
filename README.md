@@ -133,7 +133,7 @@ Cloud-native ELT pipeline using AWS Glue for ingestion, S3 as data lake, and Sno
 
 
 ## 🌐 Connect With Me
-
+*Open to Data Engineering roles — feel free to reach out!*
 <div align="center">
   <a href="https://linkedin.com/in/eswar-kandula-b540a41a0">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -152,4 +152,5 @@ Cloud-native ELT pipeline using AWS Glue for ingestion, S3 as data lake, and Sno
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=eswar004&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
